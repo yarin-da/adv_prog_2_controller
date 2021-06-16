@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_connect_disconnected">Connect</string>
+    <string name="button_connect_connected">Disconnect</string>
+    <string name="textview_port_hint">Enter a port</string>
+    <string name="textview_ip_hint">Enter an ip address</string>
+    <string name="imageview_desc">joystick</string>
+    <string name="throttle_label">Throttle</string>
+    <string name="rudder_label">Rudder</string>
+    <string name="aileron_label">Aileron</string>
+    <string name="elevator_label">Elevator</string>
+</resources>
